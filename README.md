@@ -1,6 +1,6 @@
 # Flex_Navbar
-** Flex Navbar
+## Flex Navbar
 ---
-** Objectives **
+**Objectives**
 - Practice using ```display: flex;```
 - Practice using ```align-items``` and ```justify-content```
